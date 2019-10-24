@@ -11,7 +11,9 @@ def second_challenge
       :patriarch = {}
       :heroine = {}
       :heroine_friends = []
-      }}
+      }
+    
+  }
 
   
 end
