@@ -1,7 +1,10 @@
 def second_challenge
   epic_tragedy = {
     :montague => {
-      #your key/value pairs here!
+      :matriarch = {}
+      :patriarch = {}
+      :hero = {}
+      :hero_friends = Array.new
       }, 
     :capulet => {
       #your key/value pairs here!
